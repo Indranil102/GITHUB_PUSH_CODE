@@ -1,0 +1,9 @@
+//simple 6 commands to push file and folder in GitHub 
+//open Git Bash
+step-1 git init
+step-2 git add .
+step-3 git commit -m "Commit message"
+step-4 git branch - M main (if branch is master/main see that)
+step-5 git remote add origin <github link>
+step-6 git push -u origin main
+
